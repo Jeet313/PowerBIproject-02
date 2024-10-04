@@ -1,0 +1,15 @@
+Hi My name is Gourab and i had created this interactive PowerBI dashboard design using the 3 Excel files (Orders, People, and Returns)
+
+Details:
+Q.1)Showcase the total sales in cards
+Q.2)Showcase the total Quantity sold in cards
+Q.3)Create a new measure named Average delivery date and showcase in cards
+Q.4)Showcase the total number of orders are Returned by the customers
+Q.5)Segment wise sales percentage
+Q.6)Market wise sales percentage
+Q.7)Find the top 10 most profitted customers among all customers
+Q.8)Showcase the top 6 product name which has most losses
+Q.9)Showcase the top 6 product name which has most Profit
+Q.10)Create a map to showcase which Region has most sales 
+
+I had created on slicer for 4 years 2012,2013,2014,2015 to interactive based on the slicer
